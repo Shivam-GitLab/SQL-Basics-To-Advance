@@ -4,5 +4,8 @@
     <file url="file://$PROJECT_DIR$/01. SQL Basics/01.CREATE_DB_STORE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/01. SQL Basics/02. PRACTICE.sql" dialect="MySQL" />
     <file url="file://$PROJECT_DIR$/01. SQL Basics/03. PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/01. SQL Basics/04. ECOMMERCE_DB PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/01. SQL Basics/05. ECOMMERCE_DB QUESTION PRACTICE.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/03. Retrieving Data From Multiple Tables/03. Retrieving Data From Multiple Tables.sql" dialect="MySQL" />
   </component>
 </project>

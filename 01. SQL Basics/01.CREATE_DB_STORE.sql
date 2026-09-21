@@ -473,7 +473,19 @@ VALUES ('1', '1', '2', 'first note');
 INSERT INTO `order_item_notes` (`note_id`, `order_Id`, `product_id`, `note`)
 VALUES ('2', '1', '2', 'second note');
 
+-- ORDER BY EXERCISE SOLUTION
+select * , order_items.quantity * order_items.unit_price as Total_Price from order_items where order_id = '2' order by Total_Price desc ;
 
 
+-- LIMIT
+select * from order_items limit 3;
 
+select * from customers limit 3;
+
+select * from customers limit 30000; -- all records under 3000
+
+select * from customers limit 6, 3; -- 6 skip offset start 7 8 9
+
+-- LIMIT EXERCISE QUESTION
+select * from customers order by points desc limit 3;
 
