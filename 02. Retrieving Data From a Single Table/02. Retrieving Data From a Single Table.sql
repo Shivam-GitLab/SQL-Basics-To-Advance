@@ -8,6 +8,7 @@ CREATE DATABASE sql_practice;
 USE sql_practice;
 
 
+
 -- ============================================
 -- TABLE
 -- ============================================
@@ -25,6 +26,7 @@ CREATE TABLE customers
     points      INT,
     birth_date  DATE
 );
+
 
 
 -- ============================================
